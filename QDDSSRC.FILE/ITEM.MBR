@@ -1,0 +1,7 @@
+                                            UNIQUE
+                R ITEMREC
+                  ITEMNO        10A
+                  NAME          30A
+                  TYPE           1A
+                  UOM            3A
+                  QTY            9P 2
